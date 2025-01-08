@@ -1,1 +1,1 @@
-This repo contains all iterations of buggy circuitry throughout lifetime of project
+This repo contains all iterations of buggy schematics throughout lifetime of project
